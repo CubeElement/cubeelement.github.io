@@ -1,5 +1,12 @@
-title: "CubeElement projects"
-logo: /assets/img/cubeelement_img_goldv1.png
-description: "Coding experiments, ideas, concepts | C++ | Python"
-show_downloads: false
-theme: jekyll-theme-minimal
+# Build settings
+
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Portfolio Jekyll Theme"
+description: "Powered by Jekyll and GitHub Pages"
+author:      "Paul Le"
