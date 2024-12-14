@@ -8,4 +8,4 @@ title: 'Visual Datastructures and Algorithms'
 
 ![visualgorithms grid demo](/assets/img/projects/visualgorithms/133395464-6981765e-3507-447b-a0e1-c9ccd99ae5b9.gif)
 
-{% include image.html url="https://www.youtube.com/watch?v=0qKtMna_AZs" image="/assets/img/projects/metaverse-unrealengine/semifab_metaverse_title.jpg" %}
+{% include image.html url="https://www.youtube.com/watch?v=0qKtMna_AZs" image="projects/metaverse-unrealengine/semifab_metaverse_title.jpg" %}
