@@ -11,8 +11,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Logseq DevLog',   url: 'devlog'}
-- {name: 'cube-tools project',   url: 'cube-tools'}
+- {name: 'Metaverse - Unreal Engine',   url: 'metaverse-unrealengine'}
+- {name: 'cube-tools',   url: 'cube-tools'}
+- {name: 'cube-estilite',   url: 'cube-estilite'}
+- {name: 'Visual Datastructures and Algorithms',   url: 'visualgorithms'}
 #- {name: 'Project Three', url: 'proj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
 #- {name: 'Project Five',  url: 'proj-5'}
