@@ -2,6 +2,7 @@
 layout: post
 title: 'cube-estilite'
 ---
+**cube-esilite** is a light app for quick estimation of the key parameters of cutting tools/process.
 [cube-estilite GitHub](https://github.com/CubeElement/cube-estilite)
 
 ![cube-estilite UI](/assets/img/projects/cube-estilite/121136287-c3e02280-c835-11eb-8ac5-b419113b1aff.png)
