@@ -3,7 +3,7 @@ layout: post
 title: 'cube-tools project'
 ---
 **cube-tools** is a small utility for faster and easier search and maintenance routines for big tool-magazines/ToolDBs
-[cube-tools GitHub](https://github.com/CubeElement/cube-tools)
+[cube-tools GitHub](https://github.com/CubeElement/cube-tools-py)
 
 ![cube-tools main screen](/assets/img/projects/cube-tools/111025676-fa003880-83e5-11eb-992b-fd41370d9905.png)
 
