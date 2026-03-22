@@ -2,7 +2,7 @@
 title: Cube
 subtitle: Element
 email:
-description: Working in all kinds of DCC tools to create complex technical solutions like Digital Twins and visuals with programming logic.
+description: Working in all kinds of DCC tools to create complex technical solutions<br /> like Digital Twins and visuals with programming logic.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: CubeElement
