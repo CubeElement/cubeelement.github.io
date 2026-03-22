@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Max, dedicated CGI enthusiast
+landing-title: 'Hi, my name is Max, dedicated CGI enthusiast'
 description: null
 image: null
 author: null
