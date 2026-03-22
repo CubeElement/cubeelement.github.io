@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Working in all kinds of DCC tools to create complex technical solutions like Digital Twins and visuals with programming logic
+Though there is nowadays many known use cases of AI in different areas, i prefer not to use AI in any of my art or programming project creation process and maintain it as deterministic and hand-crafted as humanly possible.
