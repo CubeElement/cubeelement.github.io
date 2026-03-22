@@ -5,6 +5,20 @@ description: Digital Production Twin
 image: assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_06.jpg
 nav-menu: true
 ---
+<h4>Goals</h4>
+<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h4>Ordered</h4>
+		<ol>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Etiam vel lorem sed viverra.</li>
+			<li>Felis dolore viverra.</li>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Etiam vel lorem sed viverra.</li>
+			<li>Felis dolore viverra.</li>
+		</ol>
+<h4>Process</h4>
+<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<hr class="major" />
 
 <!-- Main -->
 <div id="main" class="alt">
