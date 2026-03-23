@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Digital Production Twin
-description: Digital Production Twin
+description: Shopfloor planning and simulation
 image: assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_06.jpg
 nav-menu: true
 ---
@@ -17,11 +17,11 @@ nav-menu: true
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>-->
 	<blockquote>
 	<h4><i>Goal</i></h4>
-  <p>3D Digital Twin to simulate a virtual space providing functionality to iterate over layout variants of a production facility. The toolset includes the management of 3D models of unique objects (from drawers/shelves to lithography systems and CNC Machines) and analysis of configuration such as distance measuring, dimensions, boundaries etc. The core application facilitates extensibility and adaptation to different types of floor plans (manufacturing, montage, recycling, semiconductor etc.).</p>
+  <p>3D Digital Twin to simulate a virtual space providing functionality to iterate over layout variants of a production facility. The toolset includes the management of 3D models of unique objects (from drawers/shelves to lithography systems and CNC Machines) and analysis of configuration such as distance measuring, dimensions, boundaries etc. The core application facilitates extensibility and adaptation to different types of shopfloor plans (manufacturing, montage, recycling, semiconductor etc.).</p>
   </blockquote>
   <blockquote>
   <h4><i>Development</i></h4>
-  <p><span class="image right"><img src="{% link assets/images/Projects/DigitalProductionTwin/Blueprints_vs_Cpp_Alex_Forsythe.jpg %}" alt="" /></span>Unreal Engine 5.3 features as the base development framework balancing the usage of C++ and Blueprints to enable all contributors including Designers and 3D Artists to make changes and integrate assets into the project through UI elements without special programming knowledge. The core functionality contains multiple solutions of the Epic Games' project Lyra and its best practices (Procedural Level generation, Gameplay Ability System, GameplayTags, UI layouts etc.), which combines with its another tool Modular Game Features for further customizations.
+  <p><span class="image right"><img src="{% link assets/images/Projects/DigitalProductionTwin/Blueprints_vs_Cpp_Alex_Forsythe.jpg %}" alt="" /></span>Unreal Engine 5.3 features as the base development framework balancing the usage of C++ and Blueprints to enable all contributors including Designers and 3D Artists to make changes and integrate assets into the project through UI elements without special programming knowledge. The core functionality contains multiple solutions of the Epic Games` project Lyra and its best practices (Procedural Level generation, Gameplay Ability System, GameplayTags, UI layouts etc.), which combines with its another tool Modular Game Features for further customizations.
   </p>
 	</blockquote>
 <span class="image fit"><img src="{% link assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_02.jpg %}" alt="" /></span>
@@ -30,7 +30,7 @@ nav-menu: true
 <div class="row">
 <div class="6u 12u$(medium)">
 	<!--<h3>Sem turpis amet semper</h3>-->
-	<p><span class="image left"><img src="{% link assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_01_scene_assembly.jpg %}" alt="" /></span>Combination with C++ makes it possible to process large object datasets maintaining the required FPS(Frames Per Second).</p>
+	<p><span class="image left"><img src="{% link assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_01_scene_assembly.jpg %}" alt="" /></span>Combination with C++ makes it possible to process large object datasets maintaining the required FPS (Frames Per Second).</p>
 </div>
 <div class="6u$ 12u$(medium)">
 	<p><span class="image right"><img src="{% link assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_02_scene_assembly.jpg %}" alt="" />
@@ -59,7 +59,7 @@ Special requirements in layout are integrated by modular game features. Decoupli
 </div>
 <div class="6u$ 12u$(medium)">
 	<p><span class="image right"><img src="{% link assets/images/Projects/DigitalProductionTwin/DigitalProductionTwin_08_bp.jpg %}" alt="" />
-	</span>Many basic scripting scenarios are data-driven and interfacing key points to project maintainers for a quick VR trainings and tutorials</p>
+	</span>Many basic scripting scenarios are data-driven and interfacing key points to project maintainers for a quick VR trainings and tutorials creation process.</p>
 </div>
 </div>
 
